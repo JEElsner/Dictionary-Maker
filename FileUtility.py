@@ -1,5 +1,9 @@
-# Author: Jonathan Elsner
+# Author: ???
 # 2018-07-03
+#
+# Update from the future: I doubt I wrote this code. It has docstrings when I probably didn't know
+# what docstrings were. I don't know who wrote the code, or where I got it from. Don't attribute
+# this work to me.
 #
 # A set of methods to manipulate and test XML files
 #
